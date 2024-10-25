@@ -24,3 +24,12 @@ pip install Flask
 ```bash
 pip install nltk
 ```
+Then run this command :
+```
+python main.py
+```
+then u will get an url simialr to 
+```bash
+http://127.0.0.1:5000/
+```
+and run this in your local browser
